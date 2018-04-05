@@ -24,9 +24,9 @@ public class MainActivity extends AppCompatActivity {
 
     CustomImageViewpager customImageViewpager;
 
-    String[] sImageUrls = {
-            "", "", "", "", ""
-    };
+    String[] sImageUrls = {"", "", "", "", "",""};
+    //String[] sImageUrls = new String[10];
+
     ImageView imgGalleryShow;
 
     @Override
