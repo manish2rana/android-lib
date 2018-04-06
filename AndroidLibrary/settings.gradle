@@ -1,1 +1,1 @@
-include ':app', ':customprogressdialog', ':customimageviewpager', ':custom_edittext'
+include ':app', ':customprogressdialog', ':customimageviewpager', ':custom_edittext', ':circular_image'
